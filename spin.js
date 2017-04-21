@@ -155,6 +155,7 @@
             textAlign : 'center',
             width : dim + 'px',
             height: dim + 'px',
+            fontSize: (dim / 7) + 'px',
             lineHeight: dim + 'px',
             position : 'absolute',
             top : (offsetTop - dim / 2) + 'px',
